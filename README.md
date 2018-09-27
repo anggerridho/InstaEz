@@ -18,7 +18,8 @@ Contoh :
 3. edit hashtag sesuai selera
 
 4. jalankan dengan perintah : 
-   
-   >> python3 InstaEz.py
+   ```
+    python3 InstaEz.py
+   ```
 
 5. Enjoy!
