@@ -24,3 +24,5 @@ Contoh :
    ```
 
 5. Enjoy!
+
+Note : Jika sewaktu-waktu tidak work berarti Instagram sudah di Update. 
