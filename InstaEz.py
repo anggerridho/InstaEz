@@ -7,7 +7,7 @@ class InstaEz:
     def __init__(self,username,password):
         self.username = username
         self.password = password
-        self.driver = webdriver.Chrome('/home/s1gnific4nt/InstaEz/chromedriver')
+        self.driver = webdriver.Chrome('~/InstaEz/chromedriver') #letak folder chromedriver
 
     def menutupBrowser(self):
         self.driver.close()
