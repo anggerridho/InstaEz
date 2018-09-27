@@ -60,7 +60,7 @@ class InstaEz:
                 like_btn = lambda: driver.find_element_by_xpath('/html/body/span/section/main/div/div/article/div[2]/section[1]/span[1]/button').click()
                 like_btn().click()
                 for detik in reversed(range(0, random.randint(18, 28))):
-                    print("#" + hastag + ': unique photos left: ' + str(photo) + " | Sleeping " + str(detik))
+                    print("#" + hastag + ': Foto: ' + str(photo) + " | Perdetik " + str(detik))
             except Exception as ex:
                 time.sleep(3)
             photo -=1
