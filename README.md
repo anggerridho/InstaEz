@@ -10,8 +10,8 @@ Instructions :
 
 1. Atur letak ChromeDriver berada di dalam source code. 
 Contoh : 
-Windows: C:\user\chromedriver 
-Linux : /home/user/chromedriver
+> Windows: C:\user\chromedriver 
+> Linux : /home/user/chromedriver
 
 2. masukan username dan password instagram akun kamu
 
@@ -19,6 +19,6 @@ Linux : /home/user/chromedriver
 
 4. jalankan dengan perintah : 
    
-   python3 InstaEz.py
+   > python3 InstaEz.py
 
 5. Enjoy!
